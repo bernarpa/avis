@@ -8,4 +8,5 @@ Quello che ho trovato nel file EPS era #2e3192 (viola).
 
 Font
 ----
-Quali sono?
+Quali sono? Per ora tento con Georgia (chiaramente non è)
+e Corbell (potrebbe essere).
