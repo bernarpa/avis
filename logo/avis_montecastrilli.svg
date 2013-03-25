@@ -12,8 +12,8 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   width="348.927"
-   height="89.611847"
+   width="381.76761"
+   height="95.511337"
    xml:space="preserve"
    sodipodi:docname="avis_montecastrilli.svg"><metadata
      id="metadata8"><rdf:RDF><cc:Work
@@ -28,17 +28,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1094"
-     inkscape:window-height="739"
+     inkscape:window-width="1063"
+     inkscape:window-height="538"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="257.52365"
-     inkscape:cy="92.438934"
+     inkscape:zoom="1"
+     inkscape:cx="185.32638"
+     inkscape:cy="23.291902"
      inkscape:window-x="487"
      inkscape:window-y="272"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g12"
+     inkscape:current-layer="g10"
      showguides="true"
      inkscape:guide-bbox="true"
      fit-margin-top="0"
@@ -48,11 +48,11 @@
      id="g10"
      inkscape:groupmode="layer"
      inkscape:label="ink_ext_XXXXXX"
-     transform="matrix(1.25,0,0,-1.25,-7,171.945)"><g
+     transform="matrix(1.25,0,0,-1.25,-2,180.945)"><g
        id="g12"
        transform="scale(0.1,0.1)"><path
-   d="m 56,579.46929 3142.1409,0 0,796.09071 -3142.1409,0 0,-796.09071 z"
-   style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+   d="m 16,683.46929 3054.1409,0 0,764.09071 -3054.1409,0 0,-764.09071 z"
+   style="fill:#ffffff;fill-opacity:0;fill-rule:evenodd;stroke:none"
    id="path14"
    inkscape:connector-curvature="0" /><path
    d="m 1800.62,1205.82 -17.7,-157.23 c -44.34,14.16 -102.48,29.43 -152.7,13.37 -3.08,-4.73 -8.85,-10.28 -4.32,-16.25 9.06,-9.67 23.67,-5.97 35.4,-8.85 32.1,0.62 65.03,-5.15 93.43,-17.9 60.71,-29.636 91.37,-88.702 87.46,-155.585 -2.26,-59.27 -40.13,-115.656 -93.43,-142.203 -77.58,-24.695 -160.52,-18.317 -243.05,-8.852 -19.54,4.942 -40.33,7.618 -59.26,14.821 l -19.14,167.515 c 67.68,-32.48 126.77,-39.308 196.94,-35.601 7.21,1.437 13.38,7.82 14.82,14.82 -2.88,24.77 -40.05,13.719 -62.26,13.543 -66.26,-1.23 -126.45,37.488 -155.47,99.023 -25.72,49.799 -18.11,120.799 16.26,165.869 71.82,91.17 194.89,73.47 299.43,66.68 21.2,-4.33 42.39,-8.85 63.59,-13.17"
@@ -89,6 +89,10 @@
      style="font-size:120px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#2271b3;fill-opacity:1;font-family:Georgia;-inkscape-font-specification:Georgia Bold Italic">Associazione Volontari Italiani del Sangue</tspan></text>
 
 
+
+
+
+
 <text
    xml:space="preserve"
    style="font-size:320px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#2271b3;fill-opacity:1;stroke:none;font-family:Sans"
@@ -104,9 +108,13 @@
      style="font-size:192px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#2271b3;fill-opacity:1;font-family:Corbel;-inkscape-font-specification:Corbel Bold">Comunale</tspan><tspan
      sodipodi:role="line"
      x="1877.5551"
-     y="-833.97882"
+     y="-833.97876"
      style="font-size:192px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#2271b3;fill-opacity:1;font-family:Corbel;-inkscape-font-specification:Corbel Bold"
      id="tspan3777">Montecastrilli</tspan></text>
+
+
+
+
 
 
 </g></g></svg>
